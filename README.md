@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on quantum related projects
 - 🤔 I’m looking for help with any idea person
 - 💬 Ask me about quantum-computing
-- 📫 How to reach me: laolianglaoliang.com or 
+- 📫 How to reach me: laolianglaoliang.com 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am home study highschool students
 
