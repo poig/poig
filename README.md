@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Tan Jun Liang
-**poig/poig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I love to do project related to quantum computer for fun.
 
 - 🔭 I’m currently working on QC related project(VFF simulation on trotterization)
 - 🌱 I’m currently learning CS (philosophy, music, martial arts, digital art)
@@ -12,7 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am home study highschool students
 - 🎵 love classical music like Moonlight Sonata 3rd Movement
-- 
 
 ![Archibate's GitHub stats](https://github-readme-stats.vercel.app/api?username=poig&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=poig&layout=compact&count_private=true&theme=dark)
