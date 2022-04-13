@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![Archibate's GitHub stats](https://github-readme-stats.vercel.app/api?username=poig&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=poig&layout=compact&count_private=true&theme=dark)
 
-[Twitter @ LaoliangPoig)](https://twitter.com/LaoliangPoig) | [Gitee @ poig123](https://gitee.com/poig123) | [Steam @ poig123](https://steamcommunity.com/id/poig123) | [WeChat @ poigwhat](/)
+[Twitter @ LaoliangPoig](https://twitter.com/LaoliangPoig) | [Gitee @ poig123](https://gitee.com/poig123) | [Steam @ poig123](https://steamcommunity.com/id/poig123) | [WeChat @ poigwhat](/)
 <!--
 **poig/poig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
