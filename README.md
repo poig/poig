@@ -11,6 +11,7 @@ I love to do project related to quantum computer for fun.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am home study highschool students
 - 🎵 love classical music like Moonlight Sonata 3rd Movement and japanese music like shadow shadow
+- 🗣 daily spoken language: EN, CN
 
 ![Archibate's GitHub stats](https://github-readme-stats.vercel.app/api?username=poig&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=poig&layout=compact&count_private=true&theme=dark)
