@@ -2,7 +2,7 @@
 
 I love to do project related to quantum computer for fun.
 
-- 🔭 I’m currently working on QC related project(VFF simulation on trotterization)
+- 🔭 I’m currently working on QC related project(researching multi-agent algo in QC)
 - 🌱 I’m currently learning CS (philosophy, music, martial arts, digital art)
 - 👯 I’m looking to collaborate on quantum related projects
 - 🤔 I’m looking for help with any idea person
