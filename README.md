@@ -9,7 +9,7 @@ I love to do project related to quantum computer for fun.
 - 💬 Ask me about quantum-computing
 - 📫 How to reach me: laolianglaoliang.com 
 - 😄 Pronouns: He
-- ⚡ Fun fact: I am home study highschool students
+- ⚡ Fun fact: I am home study highschool students and a otaku
 - 🎵 love classical music like Moonlight Sonata 3rd Movement and japanese music like shadow shadow
 - 🗣 daily spoken language: EN, CN
 
