@@ -1,5 +1,6 @@
 ### Hi 👋, I'm Tan Jun Liang
 I love to do project related to quantum computer for fun.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=poig&label=Profile%20views&color=0e75b6&style=flat" alt="poig" /> </p>
 
 - 🔭 I’m currently working on [qiskit-network](https://github.com/Qiskit/qiskit/issues/1512)
 - 🌱 I’m currently learning **CS (philosophy, music, martial arts, digital art)**
@@ -14,26 +15,25 @@ I love to do project related to quantum computer for fun.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//jun-liang-tan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jun liang tan" height="30" width="40" /></a>
-<a href="https://instagram.com/junliang_poig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junlaing_poig" height="30" width="40" /></a>
+<a href="https://twitter.com/laoliangpoig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laoliangpoig" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jun liang tan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jun liang tan" height="30" width="40" /></a>
+<a href="https://instagram.com/junlaing_poig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junlaing_poig" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/小洋xiaoyang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="小洋xiaoyang" height="30" width="40" /></a>
-<a href="https://discord.gg/Jun Liang Tan#4881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jun Liang Tan#4881" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/poig"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="poig" /></a><a href="https://ko-fi.com/poig313749"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="poig313749" /></a></p><br><br>
 <br>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=poig&show_icons=true&locale=en&layout=compact&theme=dark" alt="poig" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poig&show_icons=true&locale=en&layout=compact&theme=dark" alt="poig" />
-</p> <br><br>
-<br><br>
-<br><br>
-<br><br> 
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=poig&show_icons=true&locale=en" alt="poig" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=poig&show_icons=true&locale=en&layout=compact" alt="poig" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poig&" alt="poig" /></p>
   
 
 <h3 align="left">other account:</h3>
