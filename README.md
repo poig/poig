@@ -32,10 +32,10 @@ I love to do project related to quantum computer for fun.
 </p>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poig&show_icons=true&locale=en&layout=compact&theme=dark" alt="poig" />
-</p>
 </p><br><br>
-<h3 align="left"></h3><br><br>
-<h3 align="left"></h3><br><br>
+<br><br>
+<br><br>
+<br><br>
 <h3 align="left">other account:</h3>
 
 [Twitter @ LaoliangPoig](https://twitter.com/LaoliangPoig) | [Gitee @ poig123](https://gitee.com/poig123) | [Steam @ poig123](https://steamcommunity.com/id/poig123) | [WeChat @ poigwhat](/) | [Youtube @ 小洋xiaoyang](https://www.youtube.com/channel/UC6B7MD5FaH1AYeuURroJFEA) | [Discord @ Jun Liang Tan#4881](/) | [Instagram @ junliang_poig](https://instagram.com/junliang_poig/) | [Bilibili @ poig123](https://space.bilibili.com/88057915) | [Tiktok @ 小洋xiaoyang](https://tiktok.com/@MS4wLjABAAAA_29sVYl5CK7GIkqJoaY3q5AtLhRGE82sjuFMcS5jINoHNMwrdVXDPlfIxqdvLus5) | [Spotify](https://open.spotify.com/user/22zetopigavrseooipwt5bygy?si=3ffe613af242469f) | [pixiv @ poig](https://www.pixiv.net/en/users/65126909) | [linkedin @ Tan Jun Liang](https://www.linkedin.com/in/jun-liang-tan/)
