@@ -29,13 +29,12 @@ I love to do project related to quantum computer for fun.
 <br>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=poig&show_icons=true&locale=en&layout=compact&theme=dark" alt="poig" />
-</p>
-<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poig&show_icons=true&locale=en&layout=compact&theme=dark" alt="poig" />
 </p> <br><br>
 <br><br>
 <br><br>
 <br><br> 
+  
 
 <h3 align="left">other account:</h3>
 
