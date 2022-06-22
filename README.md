@@ -1,8 +1,5 @@
 ### Hi 👋, I'm Tan Jun Liang
 I love to do project related to quantum computer for fun.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poig&label=Profile%20views&color=0e75b6&style=flat" alt="poig" /> </p>
-
-<p align="left"> <a href="https://twitter.com/laoliangpoig" target="blank"><img src="https://img.shields.io/twitter/follow/laoliangpoig?logo=twitter&style=for-the-badge" alt="laoliangpoig" /></a> </p>
 
 - 🔭 I’m currently working on [qiskit-network](https://github.com/Qiskit/qiskit/issues/1512)
 - 🌱 I’m currently learning **CS (philosophy, music, martial arts, digital art)**
