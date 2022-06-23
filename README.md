@@ -36,4 +36,13 @@ I love to do project related to quantum computer for fun.
 
 <h3 align="left">other account:</h3>
 
-[Twitter @ LaoliangPoig](https://twitter.com/LaoliangPoig) | [Gitee @ poig123](https://gitee.com/poig123) | [Steam @ poig123](https://steamcommunity.com/id/poig123) | [WeChat @ poigwhat](/) | [Youtube @ 小洋xiaoyang](https://www.youtube.com/channel/UC6B7MD5FaH1AYeuURroJFEA) | [Discord @ Jun Liang Tan#4881](/) | [Instagram @ junliang_poig](https://instagram.com/junliang_poig/) | [Bilibili @ poig123](https://space.bilibili.com/88057915) | [Tiktok @ 小洋xiaoyang](https://tiktok.com/@MS4wLjABAAAA_29sVYl5CK7GIkqJoaY3q5AtLhRGE82sjuFMcS5jINoHNMwrdVXDPlfIxqdvLus5) | [Spotify](https://open.spotify.com/user/22zetopigavrseooipwt5bygy?si=3ffe613af242469f) | [pixiv @ poig](https://www.pixiv.net/en/users/65126909) | [linkedin @ Tan Jun Liang](https://www.linkedin.com/in/jun-liang-tan/)
+<p align="left">
+<a href="https://gitee.com/poig123" target="blank"><img align="center" src="https://gitee.com/static/images/logo-black.svg" alt="poig" height="30" width="100" /></a>
+<a href="https://steamcommunity.com/id/poig123" target="blank"><img align="center" src="https://store.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg" alt="poig" width="100" /></a>
+<a href="https://space.bilibili.com/88057915" target="blank"><img align="center" src="https://i0.hdslb.com/bfs/archive/f2e3c806a333f2a0706bcd02871311e4dacdf79e.png" alt="poig" width="100" /></a>
+<a href="https://www.pixiv.net/en/users/65126909" target="blank"><img align="center" src="https://s.pximg.net/www/js/build/14e52f8ff79c3dc931eb16c6f4b53890.svg" alt="poig" width="100" /></a>
+<a href="https://open.spotify.com/user/22zetopigavrseooipwt5bygy?si=3ffe613af242469f" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" alt="poig" width="50" /></a>
+<a href="https://tiktok.com/@MS4wLjABAAAA_29sVYl5CK7GIkqJoaY3q5AtLhRGE82sjuFMcS5jINoHNMwrdVXDPlfIxqdvLus5" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/1000px-TikTok_logo.svg.png?20200415104610" alt="poig" width="100" /></a>
+</p>
+
+[WeChat @ poigwhat](/) | [Discord @ Jun Liang Tan#4881](/)
