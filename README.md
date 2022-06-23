@@ -29,8 +29,9 @@ I love to do project related to quantum computer for fun.
 <p><a href="https://www.buymeacoffee.com/poig"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="poig" /></a><a href="https://ko-fi.com/poig313749"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="poig313749" /></a></p><br><br>
 <br>
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=poig&show_icons=true&locale=en&theme=dark" alt="poig" /></p>
-
+-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=poig&show_icons=true&locale=en&layout=compact&theme=dark" alt="poig" /></p>
   
 
