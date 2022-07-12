@@ -18,7 +18,7 @@ I love to do project related to quantum computer for fun.
 <a href="https://linkedin.com/in/jun-liang-tan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jun liang tan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/junliang_poig/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junlaing_poig" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/小洋xiaoyang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="小洋xiaoyang" height="30" width="40" /></a>
-<a href="https://quantumcomputing.stackexchange.com/users/20884/poig" target="blank"><img align="center" src="https://cdn.sstatic.net/Sites/quantumcomputing/Img/logo.svg" alt="小洋xiaoyang" height="30" width="40" /></a>
+<a href="https://quantumcomputing.stackexchange.com/users/20884/poig" target="blank"><img align="center" src="https://cdn.sstatic.net/sites/quantumcomputing/img/apple-touch-icon.png" alt="小洋xiaoyang" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
