@@ -3,6 +3,7 @@ I love to do project related to quantum computer for fun.
 
 - 🔭 I’m currently working on [qiskit-network](https://github.com/Qiskit/qiskit/issues/1512)
 - 🌱 I’m currently learning **CS (philosophy, music, martial arts, digital art)**
+   - 🥋	taekwondo: Blue 2(2019-11-16), martial art: 三段长拳，三段棍法
 - 👯 I’m looking to collaborate on **qiskit-network**
 - 🤝 I’m looking for help with **idea person**
 - 💬 Ask me about **quantum-computing**
