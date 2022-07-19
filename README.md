@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Tan Jun Liang
 I love to do project related to quantum computer for fun.
 
-- 🔭 I’m currently working on [qiskit-network](https://github.com/Qiskit/qiskit/issues/1512)
+- 🔭 I’m currently working on [qiskit-network](https://github.com/Qiskit/qiskit/issues/1512), qgss2022
 - 🌱 I’m currently learning **CS (philosophy, music, martial arts, digital art)**
    - 🥋	taekwondo: Blue-2(grade 3)(2019-11-16); martial art: 三段长拳，三段棍法
 - 👯 I’m looking to collaborate on **qiskit-network**
@@ -45,6 +45,7 @@ I love to do project related to quantum computer for fun.
 <a href="https://www.pixiv.net/en/users/65126909" target="blank"><img align="center" src="https://s.pximg.net/www/js/build/14e52f8ff79c3dc931eb16c6f4b53890.svg" alt="poig" width="100" /></a>
 <a href="https://open.spotify.com/user/22zetopigavrseooipwt5bygy?si=3ffe613af242469f" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" alt="poig" width="50" /></a>
 <a href="https://tiktok.com/@MS4wLjABAAAA_29sVYl5CK7GIkqJoaY3q5AtLhRGE82sjuFMcS5jINoHNMwrdVXDPlfIxqdvLus5" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/1000px-TikTok_logo.svg.png?20200415104610" alt="poig" width="100" /></a>
+<a href="https://www.artstation.com/laolianglaoliang" target="blank"><img align="center" src="https://www.artstation.com/assets/about/logo/logo-artstation-plain-07ed02f403ab126137d95839442a73e7.png" alt="poig" width="100" /></a>
 </p>
 
 [WeChat @ poigwhat](/) | [Discord @ Jun Liang Tan#4881](/)
