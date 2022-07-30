@@ -2,7 +2,7 @@
 I love to do project related to quantum computer for fun.
 
 - 🔭 I’m currently working on [qiskit-network](https://github.com/Qiskit/qiskit/issues/1512)
-- 🌱 I’m currently learning **CS (philosophy, music, martial arts, digital art)** , qgss2022
+- 🌱 I’m currently learning **CS (philosophy, music, martial arts, digital art, political)** 
    - 🥋	taekwondo: Blue-2(grade 3)(2019-11-16); martial art: 三段长拳，三段棍法
 - 👯 I’m looking to collaborate on **qiskit-network**
 - 🤝 I’m looking for help with **idea person**
@@ -10,7 +10,7 @@ I love to do project related to quantum computer for fun.
 - 📫 How to reach me **laolianglaoliang@gmail.com**
 - 😄 Pronouns: He
 - ⚡ Fun fact **I am 18 years old home study quantum computing and an otaku**
-- 🎵 love classical music like Moonlight Sonata 3rd Movement and japanese music like shadow shadow
+- 🎵 love classical music like Moonlight Sonata 3rd Movement , [music](https://www.youtube.com/playlist?list=PLGjhJJjulo3QvoUDmex1Rh5Zf32yd7v_X) and [japanese music](https://www.youtube.com/playlist?list=PLGjhJJjulo3RpL5cgPlu-2qGAfqI72yCL)
 - 🗣 daily spoken language: EN, CN
 
 <h3 align="left">Connect with me:</h3>
