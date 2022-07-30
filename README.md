@@ -48,4 +48,4 @@ I love to do project related to quantum computer for fun.
 <a href="https://www.artstation.com/laolianglaoliang" target="blank"><img align="center" src="https://www.artstation.com/assets/about/logo/logo-artstation-plain-07ed02f403ab126137d95839442a73e7.png" alt="poig" width="100" /></a>
 </p>
 
-[WeChat @ poigwhat](/) | [Discord @ Jun Liang Tan#4881](/)
+[WeChat @ poigwhat](/) | [Discord @ Jun Liang Tan#4881](/) | [Battle.net @ poig#1665](/)
