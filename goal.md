@@ -1,4 +1,4 @@
-- [ ] qiskit advocate
+- [x] qiskit advocate
 - [ ] 5 digital art
 - [ ] MAT
   - [ ] ocw courses 6-2
