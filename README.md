@@ -3,23 +3,34 @@ I love to do project related to quantum computer for fun.
 
 - 🔭 I’m currently working on [qiskit-network](https://github.com/Qiskit/qiskit/issues/1512)
 - 🌱 I’m currently learning **CS (philosophy, music, martial arts, digital art, political)** 
-   - 🥋	taekwondo: Blue-2(grade 3)(2019-11-16); martial art: 三段长拳，三段棍法
 - 👯 I’m looking to collaborate on **qiskit-network**
-- 🤝 I’m looking for help with **idea person**
-- 💬 Ask me about **quantum-computing**
-- 📫 How to reach me **laolianglaoliang@gmail.com**
-- 😄 Pronouns: He
-- ⚡ Fun fact **I am 18 years old home study quantum computing and an otaku**
-- 🎵 love classical music like Moonlight Sonata 3rd Movement , [music](https://www.youtube.com/playlist?list=PLGjhJJjulo3QvoUDmex1Rh5Zf32yd7v_X) and [japanese music](https://www.youtube.com/playlist?list=PLGjhJJjulo3RpL5cgPlu-2qGAfqI72yCL)
-- 🗣 daily spoken language: EN, CN
+
+<details>
+    <summary><strong>About Me</strong></summary>
+
+  - 📫 How to reach me **laolianglaoliang@gmail.com**
+  - 💬 Ask me about **quantum-computing**
+  - 😄 Pronouns: He 
+  - 🗣 Daily spoken language: EN, CN  
+  - ⚡ Fun fact **I am 18 years old home study quantum computing and an otaku** 
+  - 🥋 TaeKwonDo: Blue-2(grade 3)(2019-11-16); MartialArt: 三段长拳，三段棍法
+  - <details>
+      <summary><strong>Favourite Things</strong></summary>
+      
+      - 🎵 Love classical music like Moonlight Sonata 3rd Movement , [music](https://www.youtube.com/playlist?list=PLGjhJJjulo3QvoUDmex1Rh5Zf32yd7v_X) and [japanese music](https://www.youtube.com/playlist?list=PLGjhJJjulo3RpL5cgPlu-2qGAfqI72yCL)
+      - 🎸 Favourite Instrument: lute-family instruments ukulele and freestyle guitar(fighten)
+      - 🎮 Favourite Videogame: Civilization VI 
+      
+     </details>
+</details>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/laoliangpoig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="laoliangpoig" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jun-liang-tan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jun liang tan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/junliang_poig/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junlaing_poig" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/小洋xiaoyang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="小洋xiaoyang" height="30" width="40" /></a>
-<a href="https://quantumcomputing.stackexchange.com/users/20884/poig" target="blank"><img align="center" src="https://cdn.sstatic.net/sites/quantumcomputing/img/apple-touch-icon.png" alt="小洋xiaoyang" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,7 +39,10 @@ I love to do project related to quantum computer for fun.
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=poig&show_icons=true&locale=en&theme=dark" alt="poig" /></p>
 -->
+<details>
+    <summary>Most Used Languages</summary>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=poig&show_icons=true&locale=en&layout=compact&theme=dark" alt="poig" /></p>
+</details>
 
 
 <h3 align="left">Support:</h3>
@@ -36,9 +50,13 @@ I love to do project related to quantum computer for fun.
 <br>
 
 
-<h3 align="left">other account:</h3>
+
+<details>
+    <summary><h3 align="left"><strong>other account:</strong></h3></summary>
 
 <p align="left">
+<a href="https://quantumcomputing.stackexchange.com/users/20884/poig" target="blank"><img align="center" src="https://cdn.sstatic.net/sites/quantumcomputing/img/apple-touch-icon.png" alt="小洋xiaoyang" height="40" width="40" /></a>
+<a href="https://www.instagram.com/junliang_poig/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junlaing_poig" height="30" width="40" /></a>
 <a href="https://gitee.com/poig123" target="blank"><img align="center" src="https://gitee.com/static/images/logo-black.svg" alt="poig" height="30" width="100" /></a>
 <a href="https://steamcommunity.com/id/poig123" target="blank"><img align="center" src="https://store.akamai.steamstatic.com/public/shared/images/header/logo_steam.svg" alt="poig" width="100" /></a>
 <a href="https://space.bilibili.com/88057915" target="blank"><img align="center" src="https://i0.hdslb.com/bfs/archive/f2e3c806a333f2a0706bcd02871311e4dacdf79e.png" alt="poig" width="100" /></a>
@@ -49,3 +67,4 @@ I love to do project related to quantum computer for fun.
 </p>
 
 [WeChat @ poigwhat](/) | [Discord @ Jun Liang Tan#4881](/) | [Battle.net @ poig#1665](/)
+</details>
