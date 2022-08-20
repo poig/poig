@@ -20,6 +20,7 @@ I love to do project related to quantum computer for fun.
       - 🎵 Love classical music like Moonlight Sonata 3rd Movement , [music](https://www.youtube.com/playlist?list=PLGjhJJjulo3QvoUDmex1Rh5Zf32yd7v_X) and [japanese music](https://www.youtube.com/playlist?list=PLGjhJJjulo3RpL5cgPlu-2qGAfqI72yCL)
       - 🎸 Favourite Instrument: lute-family instruments ukulele and freestyle guitar(fighten)
       - 🎮 Favourite Videogame: Civilization VI 
+      - 🎥 favourite movie: [list of movie: google slide](https://docs.google.com/presentation/d/1QfKZLHp6cO_1xtyBvkpxLk0y-RidAd3qP5LZQyAv1V8/edit?usp=sharing)
       
      </details>
 </details>
