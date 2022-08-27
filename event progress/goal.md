@@ -1,0 +1,11 @@
+- [x] qiskit advocate
+- [ ] 5 digital art
+- [ ] MAT & ielts
+  - [ ] ocw courses 6-2
+  - [ ] ielts
+  - [x] project
+- [ ] coursera
+  - [ ] Introduction to Deep Learning
+  - [ ] Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+  - [ ] Structuring Machine Learning Projects
+  - [ ] Machine Learning
