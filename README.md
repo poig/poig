@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Tan Jun Liang
 I love to do project related to quantum computer for fun.
 
-- 🔭 I’m currently working on [qiskit-network](https://github.com/Qiskit/qiskit/issues/1512)
+- 🔭 I’m currently working on [qiskit-network](https://github.com/Qiskit/qiskit/issues/1512), qamp mentorship program
 - 🌱 I’m currently learning **CS (philosophy, music, martial arts, digital art, political)** 
 - 👯 I’m looking to collaborate on **qiskit-network**
 
@@ -12,7 +12,7 @@ I love to do project related to quantum computer for fun.
   - 💬 Ask me about **quantum-computing**
   - 😄 Pronouns: He 
   - 🗣 Daily spoken language: EN, CN  
-  - ⚡ Fun fact **I am 18 years old home study quantum computing and an otaku** 
+  - ⚡ Fun fact **I am 19 years old home study quantum computing and an otaku** 
   - 🥋 TaeKwonDo: Blue-2(grade 3)(2019-11-16); MartialArt: 三段长拳，三段棍法
   - <details>
       <summary><strong>Favourite Things</strong></summary>
