@@ -22,7 +22,6 @@ I love to do project related to quantum computer for fun.
       - 🎸 Favourite Instrument: lute-family instruments ukulele and freestyle guitar(fighten)
       - 🎮 Favourite Videogame: Civilization VI
       - 🎥 Favourite movie: [list of movie: google slide](https://docs.google.com/presentation/d/1QfKZLHp6cO_1xtyBvkpxLk0y-RidAd3qP5LZQyAv1V8/edit?usp=sharing)
-      - 📖 Favourite Manga: [list of manga: google docs](https://docs.google.com/document/d/1VezCzrYIUwFY_NBQCsp8OCtIgTzFjnSmrRj_tk-hkLw/edit?usp=sharing)
       
      </details>
 </details>
