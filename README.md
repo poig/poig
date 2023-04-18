@@ -17,7 +17,7 @@ I love to do project related to quantum computer for fun.
   - <details>
       <summary><strong>Favourite Things</strong></summary>
       
-      - 🎵 Love classical music like Moonlight Sonata 3rd Movement , [music](https://www.youtube.com/playlist?list=PLGjhJJjulo3QvoUDmex1Rh5Zf32yd7v_X), [japanese music](https://www.youtube.com/playlist?list=PLGjhJJjulo3RpL5cgPlu-2qGAfqI72yCL) and [music pieces](https://youtube.com/playlist?list=PLGjhJJjulo3Sr9kScF-9lBELW0MmNHrtP)
+      - 🎵 Love classical music like Moonlight Sonata 3rd Movement , [music](https://www.youtube.com/playlist?list=PLGjhJJjulo3QvoUDmex1Rh5Zf32yd7v_X), [japanese music](https://www.youtube.com/playlist?list=PLGjhJJjulo3RpL5cgPlu-2qGAfqI72yCL) and [music pieces](https://youtube.com/playlist?list=PLGjhJJjulo3Sr9kScF-9lBELW0MmNHrtP)， [music theory](https://youtube.com/playlist?list=PLGjhJJjulo3ToSPETRLZ7iOnZVvMq8oUw)
       - 🎹 Favourite pianist are [Hayato Sumino](https://www.youtube.com/@cateen_hayatosumino)
       - 🎸 Favourite Instrument: lute-family instruments ukulele and freestyle guitar(fighten)
       - 🎮 Favourite Videogame: Civilization VI
