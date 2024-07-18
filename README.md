@@ -13,17 +13,6 @@ I love to do project related to quantum computer for fun.
   - 😄 Pronouns: He 
   - 🗣 Daily spoken language: EN, CN  
   - ⚡ Fun fact **I am 20 years old home study quantum computing and an otaku** 
-  - 🥋 TaeKwonDo: Blue-2(grade 3)(2019-11-16); MartialArt: 三段长拳，三段棍法
-  - <details>
-      <summary><strong>Favourite Things</strong></summary>
-      
-      - 🎵 Love classical music like Moonlight Sonata 3rd Movement , [music](https://www.youtube.com/playlist?list=PLGjhJJjulo3QvoUDmex1Rh5Zf32yd7v_X), [japanese music](https://www.youtube.com/playlist?list=PLGjhJJjulo3RpL5cgPlu-2qGAfqI72yCL) and [music pieces](https://youtube.com/playlist?list=PLGjhJJjulo3Sr9kScF-9lBELW0MmNHrtP), [music theory](https://youtube.com/playlist?list=PLGjhJJjulo3ToSPETRLZ7iOnZVvMq8oUw), [spotify playlist](https://open.spotify.com/user/22zetopigavrseooipwt5bygy?si=65a181869e1f4cef)
-      - 🎹 Favourite musician are [Hayato Sumino](https://www.youtube.com/@cateen_hayatosumino), [Tim Henson](https://www.youtube.com/@TimHensonW6RST)
-      - 🎸 Favourite Instrument: lute-family instruments ukulele and fingerstyle guitar
-      - 🎮 Favourite Videogame: Civilization VI
-      - 🎥 Favourite movie: [list of movie: google slide](https://docs.google.com/presentation/d/1QfKZLHp6cO_1xtyBvkpxLk0y-RidAd3qP5LZQyAv1V8/edit?usp=sharing)
-      
-     </details>
 </details>
 
 
