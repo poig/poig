@@ -8,7 +8,6 @@ I love to do project related to quantum computer for fun.
 <details>
     <summary><strong>About Me</strong></summary>
 
-  - 📫 How to reach me **laolianglaoliang@gmail.com**
   - 💬 Ask me about **quantum-computing**
   - 😄 Pronouns: He 
   - 🗣 Daily spoken language: EN, CN  
