@@ -1,9 +1,9 @@
 ### Hi 👋, I'm Tan Jun Liang
 I love to do project related to quantum computer for fun.
 
-- 🔭 I’m currently working on [qiskit-network](https://github.com/Qiskit/qiskit/issues/1512), qamp mentorship program
-- 🌱 I’m currently learning **CS (philosophy, music, martial arts, digital art, political)** 
-- 👯 I’m looking to collaborate on **qiskit-network**
+- 🔭 I’m currently working on Quantum cellular automata AI
+- 🌱 I’m currently learning **CS at UQ**(interested in philosophy, music, martial arts, digital art, political)
+- 👯 I’m looking to collaborate on new qudit algorithm and hardware design
 
 <details>
     <summary><strong>About Me</strong></summary>
@@ -12,7 +12,7 @@ I love to do project related to quantum computer for fun.
   - 😄 Pronouns: He 
   - 🗣 Daily spoken language: EN, CN  
   - ⚡ Fun fact **I am 20 years old home study quantum computing and an otaku**
-  - my résumé: [here](https://1drv.ms/b/s!Avw6kioffv4Kn0BMefM7ba6lGHah?e=gnrJLc)
+  - my résumé: [here](https://1drv.ms/b/c/0afe7e1f2a923afc/Efw6kioffv4ggAo5DwAAAAABsgkwv0BXoNc7Wy9ciseXYQ?e=2dbZZh)
 </details>
 
 
