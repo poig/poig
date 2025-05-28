@@ -11,7 +11,7 @@ I love to do project related to quantum computer for fun.
   - 💬 Ask me about **quantum-computing**
   - 😄 Pronouns: He 
   - 🗣 Daily spoken language: EN, CN  
-  - ⚡ Fun fact **I am 20 years old home study quantum computing and an otaku**
+  - ⚡ Fun fact **I am 21 years old home study quantum computing and an otaku**
   - my résumé: [here](https://1drv.ms/b/c/0afe7e1f2a923afc/Efw6kioffv4ggAo5DwAAAAABsgkwv0BXoNc7Wy9ciseXYQ?e=2dbZZh)
 </details>
 
