@@ -2,16 +2,15 @@
 I love to do project related to quantum computer for fun.
 
 - 🔭 I’m currently working on Quantum cellular automata AI
-- 🌱 I’m currently learning **CS at UQ**(interested in philosophy, music, martial arts, digital art, political)
-- 👯 I’m looking to collaborate on new qudit algorithm and hardware design
+- 🌱 I’m currently studying **CS at UQ**
+- 👯 I’m looking to collaborate on new quantum algorithm and hardware design
 
 <details>
     <summary><strong>About Me</strong></summary>
 
   - 💬 Ask me about **quantum-computing**
-  - 😄 Pronouns: He 
-  - 🗣 Daily spoken language: EN, CN  
-  - ⚡ Fun fact **I am 21 years old home study quantum computing and an otaku**
+  - 😄 Pronouns: He, Him
+  - 🗣 Daily spoken language: CN, EN, BM
   - my résumé: [here](https://1drv.ms/b/c/0afe7e1f2a923afc/Efw6kioffv4ggAo5DwAAAAABsgkwv0BXoNc7Wy9ciseXYQ?e=2dbZZh)
 </details>
 
@@ -35,10 +34,6 @@ I love to do project related to quantum computer for fun.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=poig&show_icons=true&locale=en&layout=compact&theme=dark" alt="poig" /></p>
 </details>
 
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/poig"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="poig" /></a><a href="https://ko-fi.com/poig313749"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="poig313749" /></a></p><br><br>
-<br>
 
 
 
